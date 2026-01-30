@@ -18,7 +18,9 @@ Basic  structure for ML projects
 
 ## Tech Stack 
 Python 
+
 YOLO (Ultralytics)
+
 OpenCV
 
 ## Reference
