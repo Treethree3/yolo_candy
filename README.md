@@ -6,13 +6,11 @@ Most of the experimentation and training for this project was carried out using
 Google Colab.
 
 ## Goal of the project
-
 Train a model for object detection using a custom dataset.
 Work with annotated datasets and udo manual annotation.
 Learn how datasets,training, and inference fit together.
 
 ## What I learned
-
 Using YOLO for object detection
 Training a model on multiple classes
 Running  inference on sample images
@@ -22,3 +20,12 @@ Basic  structure for ML projects
 Python 
 YOLO (Ultralytics)
 OpenCV
+
+## Reference
+This project was created by following and experimenting with the YOLO training
+workflow demonstrated in the following notebook:
+
+- Train and Deploy YOLO Models – EdjeElectronics  
+  https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models
+
+The notebook was used as a learning guide and adapted for a custom candy dataset.
